@@ -1,0 +1,7 @@
+streamlit
+cohere
+chromadb
+google-genai
+google-auth
+gspread
+pysqlite3-binary
